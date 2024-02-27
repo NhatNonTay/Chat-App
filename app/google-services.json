@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329456958012",
+    "project_id": "nhom6-chatvideo",
+    "storage_bucket": "nhom6-chatvideo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329456958012:android:cfce84074a5f8114a4a139",
+        "android_client_info": {
+          "package_name": "com.example.nhom6_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjPR8fFu5gDh-ZkjmE183OMJY5nDPa0Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

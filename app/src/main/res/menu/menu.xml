@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/settings"
+        android:title="Cài Đặt"
+        android:icon="@drawable/ic_setting"/>
+    <item android:id="@+id/groupChat"
+        android:title="Group Nhắn Tin"/>
+    <item android:id="@+id/meeting"
+        android:title="Họp"
+        android:icon="@drawable/ic_meeting"/>
+    <item android:id="@+id/Location"
+        android:title="Chia sẻ vị trí"
+        android:icon="@drawable/ic_sharelocation"/>
+    <item android:id="@+id/Game"
+        android:title="Giải Trí"
+        android:icon="@drawable/ic_game"/>
+    <item android:id="@+id/logout"
+        android:title="Đăng xuất"
+        android:icon="@drawable/ic_logout"/>
+</menu>
